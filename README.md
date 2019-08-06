@@ -1,3 +1,5 @@
+We solve the detection track by adopting FCOS  which is  proposed in CVPR 2019 and our backbone is resnet 50.  We used COCO datasets for pretraining and deformable convolution is also added into our method for enhanced performance. 
+FLOPs=5.68G,Model size=256.1MB.[Model_path](https://pan.baidu.com/s/1BrAfPek1UEWQlB2JSzB_jA) and [prediction result](https://pan.baidu.com/s/1uDwlY-U9U07IJzf6Ln9gTw)
 
 # mmdetection
 
@@ -133,4 +135,3 @@ We will release a paper or technical report later.
   year =         {2018}
 }
 ```
-# CVWC-2019-FCOS
